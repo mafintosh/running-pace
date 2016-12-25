@@ -1,0 +1,21 @@
+{
+  "name": "running-pace",
+  "version": "0.0.0",
+  "description": "Calculate running paces. Supports both imperial and metric units.",
+  "main": "index.js",
+  "bin": {
+    "running-pace": "./index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/running-pace.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/running-pace/issues"
+  },
+  "homepage": "https://github.com/mafintosh/running-pace"
+}
