@@ -1,6 +1,6 @@
 {
   "name": "running-pace",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Calculate running paces. Supports both imperial and metric units.",
   "main": "index.js",
   "bin": {
