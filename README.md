@@ -19,6 +19,7 @@ Running the above prints out
 ```
 km pace:      05:00
 mi pace:      08:02
+5 km:		  25:00
 10 km:        50:00
 1/2 marathon: 01:45:30
 marathon:     03:31:00
