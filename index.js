@@ -23,6 +23,7 @@ function parse (fmt) {
 
   console.log('km pace:     ', formatTime(s / d * 1000))
   console.log('mi pace:     ', formatTime(s / d * 1609.34))
+  console.log('5 km:        ', formatTime(s / d * 5000))
   console.log('10 km:       ', formatTime(s / d * 10000))
   console.log('1/2 marathon:', formatTime(s / d * 21100))
   console.log('marathon:    ', formatTime(s / d * 42200))
